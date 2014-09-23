@@ -1,0 +1,6 @@
+1;Basquete
+12;Volei
+666;Futebol
+2;Volei de praia
+8;Futebol de areia
+14;Futebol de salão

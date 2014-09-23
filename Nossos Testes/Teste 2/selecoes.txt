@@ -1,0 +1,14 @@
+1;666;Cruzeiro
+2;666;Atlético Mineiro
+3;666;Cúrintians Ladrão
+4;666;Flamengo Ladrão
+5;12;Sada Cruzeiro
+6;12;Minas
+7;1;Brasil
+8;1;usa
+9;2;Eminem
+10;2;Reggaeton
+11;8;Chill Out
+12;8;House
+13;14;Dance 90s
+14;14;Racionais Mc's

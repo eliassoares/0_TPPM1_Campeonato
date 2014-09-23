@@ -1,0 +1,8 @@
+1;1;Fábio
+2;1;Marcelo Moreno
+3;2;Tardelli
+4;2;Victor
+5;3;Ladrão1
+6;3;Ladrão2
+7;4;Ladrão3
+8;4;Ladrão4

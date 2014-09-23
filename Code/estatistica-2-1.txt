@@ -1,0 +1,8 @@
+Cruzeiro-Futebol
+Atletas
+Fábio
+Marcelo Moreno
+Adversários		Placar
+Atlético Mineiro		6x1
+Atlético Mineiro		0x4
+Atlético Mineiro		5x0
